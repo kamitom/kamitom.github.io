@@ -11,3 +11,7 @@ section article p {
   background-color: purple;
   color: white;
 }
+
+p {
+  font-size: larger;
+}
